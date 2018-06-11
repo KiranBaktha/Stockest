@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Stockest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="hint">Start typing the company name</string>
+    <string name="summarize">Summarize</string>
+    <string name="add_to_watch_list">Add to watch list</string>
+    <string name="delete_from_watchlist">Delete from watchlist</string>
+    <string name="enter_target_price_to_watch">Enter Target Price to Watch</string>
+    <string name="del">Delete from Watchlist</string>
+    <string name="exit">Exit</string>
+    <string name="watch">Go to WatchList</string>
+    <string name="refresh">Refresh</string>
+    <string name="set_stop_periodic_refresh">Set/Stop Periodic Refresh</string>
+    <string name="done">Done</string>
+    <string name="_1_hour">1 hour</string>
+    <string name="_30_minutes">30 minutes</string>
+    <string name="_15_minutes">15 minutes</string>
+</resources>
